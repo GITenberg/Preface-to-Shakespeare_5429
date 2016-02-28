@@ -1,0 +1,23 @@
+_repo: Preface-to-Shakespeare_5429
+creator:
+  author:
+    agent_name: Johnson, Samuel
+    birthdate: 1709
+    deathdate: 1784
+    gutenberg_agent_id: '297'
+    url: http://www.gutenberg.org/2009/agents/297
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Johnson
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5429'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Shakespeare, William, 1564-1616'
+title: Preface to Shakespeare
+url: http://www.gutenberg.org/ebooks/5429
